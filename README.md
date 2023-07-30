@@ -29,7 +29,7 @@ Reading blogs:
 ![Screenshot 2023-07-30 182212](https://github.com/Seemant-RajSingh/Blog-Client/assets/117286608/40e65707-4295-4601-9932-828204441d69)
 <br />
 
-2. other users view:
+2. other users view: <br /><br />
 ![image](https://github.com/Seemant-RajSingh/Blog-Client/assets/117286608/d5a1e8c2-6845-4a30-8c09-d7792c8a55d0)
 
 
